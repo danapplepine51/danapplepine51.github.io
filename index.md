@@ -2,5 +2,5 @@
 Hi. I'm Min Hoi(Daniel) Song.
 
 ## My Project
-
+Here's some of my projects that I've been done!!
 
