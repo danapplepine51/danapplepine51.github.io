@@ -1,7 +1,7 @@
 ## Hello!!
 Hi. I'm Min Hoi(Daniel) Song. I'm a research scientist(intern) at the Korea Institute of Science and Technology(KIST)
 .
-My current research interest is understanding human and interaction between human and computer via computer vision and graphics.
+My current research interest is understanding human and interaction between human and computer via computer vision and graphics. I'm also interested in performing real-time with shallow network and limited computing power.
 
 ## My Project
 Here are some of my projects!!
