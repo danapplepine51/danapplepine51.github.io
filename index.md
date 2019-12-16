@@ -8,7 +8,7 @@ My current research interest is understanding human and interaction between huma
 ## My Project
 Here are some of my projects!!
 
-### Pose Proposal Network(with Tensorflow Implementation and Jetson Xavier)
+### Pose Proposal Network(Tensorflow Implementation with Jetson Xavier)
 <iframe width="640" height="360" src="https://www.youtube.com/embed/rQEf0_mJ5ww" frameborder="0" gesture="media" allowfullscreen=""></iframe>
 
 This is an Tensorflow implementation of "Pose Proposal Networks" at the ECCV 18, proposed by Taiki Sekii.
