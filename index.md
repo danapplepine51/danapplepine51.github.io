@@ -17,3 +17,7 @@ It runs on Jetson Xavier with 30fps. Replace feature extractor with MobileNet V2
 
 Reference:
 - [T. Sekii "Pose Proposal Networks" ECCV 2018](http://openaccess.thecvf.com/content_ECCV_2018/papers/Sekii_Pose_Proposal_Networks_ECCV_2018_paper.pdf)
+
+## Other Works
+Here are some of previous projects that I participated in
+- HUMBI 1.0: Human Multiview Behavior Imaging Dataset](http://humbi.cs.umn.edu/)
