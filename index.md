@@ -14,5 +14,4 @@ This is an Tensorflow implementation of "Pose Proposal Networks" at the ECCV 18,
 It runs on Jetson Xavier with 30fps. Replace feature extractor with MobileNet V2. Optimized with TensorRT.
 
 Reference:
-- T. Sekii "Pose Proposal Networks" ECCV 2018.
-- http://openaccess.thecvf.com/content_ECCV_2018/papers/Sekii_Pose_Proposal_Networks_ECCV_2018_paper.pdf
+- T. Sekii "[Pose Proposal Networks]" ECCV 2018.(http://openaccess.thecvf.com/content_ECCV_2018/papers/Sekii_Pose_Proposal_Networks_ECCV_2018_paper.pdf)
