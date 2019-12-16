@@ -20,4 +20,4 @@ Reference:
 
 ## Other Works
 Here are some of previous projects that I participated in
-- HUMBI 1.0: Human Multiview Behavior Imaging Dataset](http://humbi.cs.umn.edu/)
+- [HUMBI 1.0: Human Multiview Behavior Imaging Dataset](http://humbi.cs.umn.edu/)
