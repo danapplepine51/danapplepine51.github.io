@@ -24,3 +24,9 @@ Here are some of previous projects that I participated in
 
 ## Resume/CV
 [Resume/CV](https://github.com/danapplepine51/danapplepine51.github.io/blob/master/resume/Min_Hoi_Song_CV.pdf)
+
+<object data="https://github.com/danapplepine51/danapplepine51.github.io/blob/master/resume/Min_Hoi_Song_CV.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/danapplepine51/danapplepine51.github.io/blob/master/resume/Min_Hoi_Song_CV.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/danapplepine51/danapplepine51.github.io/blob/master/resume/Min_Hoi_Song_CV.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
