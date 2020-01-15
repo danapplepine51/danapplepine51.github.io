@@ -23,4 +23,4 @@ Here are some of previous projects that I participated in
 - [HUMBI 1.0: Human Multiview Behavior Imaging Dataset](http://humbi.cs.umn.edu/)
 
 ## Resume/CV
-[Resume/CV(Updated as of 01_15_20)](https://danapplepine51.github.io/resume/Min_Hoi_Song_CV.pdf)
+[Resume/CV(Updated as of 01/15/20)](https://danapplepine51.github.io/resume/Min_Hoi_Song_CV.pdf)
