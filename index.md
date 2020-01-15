@@ -25,6 +25,10 @@ Here are some of previous projects that I participated in
 ## Resume/CV
 [Resume/CV](https://github.com/danapplepine51/danapplepine51.github.io/blob/master/resume/Min_Hoi_Song_CV.pdf)
 
-<body style="width:100%; height:100%; margin:0;">
-    <iframe src="https://github.com/danapplepine51/danapplepine51.github.io/blob/master/resume/Min_Hoi_Song_CV.pdf" style="width:100%; height:100%;" frameborder="0"></iframe>
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>tmp's Resume</title>
+</head>
+  <body style="width:100%; height:100%; margin:0;">
+    <iframe src="https://docs.google.com/gview?url= YOUR LINK HERE &embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
   </body>
